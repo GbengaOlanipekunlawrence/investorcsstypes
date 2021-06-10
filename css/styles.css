@@ -1,5 +1,5 @@
 h1 {
-color:blue;
+color:rgb(255, 0, 140);
 text-align:center;
 }
 h2 {
@@ -9,17 +9,17 @@ text-align: center;
 }
 
 p {
-    font-size: 20px;
+    font-size: 10px;
 
     ul {
 
-        font-size: 20px;
-        line-height:30px;
+        font-size: 2px;
+        line-height:5px;
         
     }
 body {
 
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 73);
 }
 
 
